@@ -1,0 +1,15 @@
+# Mark Markdown files as documentation (e.g., README.md, CHANGELOG.md)
+*.md linguist-documentation
+
+# Ignore plain text documentation files (e.g., changelogs, guides)
+*.txt linguist-documentation
+
+# Ignore configuration and build-related files
+*.log linguist-vendored
+*.spec linguist-vendored
+
+# Ignore virtual environment directories
+.venv/* linguist-vendored
+
+# Force Python as the main language for Python scripts
+*.py linguist-language=Python
