@@ -6,7 +6,7 @@ This project is a Python-based automation tool designed to configure network dev
 ## Key Features
 - Automated Y.1731 Test Creation: Simplifies the configuration process by generating the necessary commands for network performance testing.
 - Support for Multiple Device Versions: Includes logic for both version 6 and version 10 of Ciena SAOS devices, with the potential for future expansion.
-- Interactive Input Prompts: Guides the user through standardized inputs such as VLAN, MEP type, and switch configuration.
+- Interactive Input Prompts: Guides the user through standardized inputs such as VLAN, Port, and switch configuration.
 - Customizable Code: Built with flexibility in mind, allowing users to adjust the script for specific needs.
 - Error Handling: Manages SSH connection issues and invalid user inputs to minimize disruptions.
 - Efficient Execution: Reduces manual errors and saves time in configuring tests for new circuits.
