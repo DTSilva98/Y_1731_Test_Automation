@@ -10,6 +10,8 @@
 
 # Ignore virtual environment directories
 .venv/* linguist-vendored
+.env/* linguist-vendored
+env/* linguist-vendored
 
 # Force Python as the main language for Python scripts
 *.py linguist-language=Python
