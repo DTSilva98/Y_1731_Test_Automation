@@ -4,3 +4,5 @@
 *.pkg linguist-detectable=false
 *.ico linguist-detectable=false
 *.exe linguist-detectable=false
+*.py linguist-detectable=true
+*.tex linguist-language=Python
