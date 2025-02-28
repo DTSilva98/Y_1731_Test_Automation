@@ -1,8 +1,0 @@
-*.py linguist-detectable=true
-*.tex linguist-detectable=false
-*.html linguist-detectable=false
-*.pkg linguist-detectable=false
-*.ico linguist-detectable=false
-*.exe linguist-detectable=false
-*.toc linguist-detectable=false
-*.tex linguist-language=Python
