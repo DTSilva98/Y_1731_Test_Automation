@@ -1,3 +1,7 @@
 # Ignore .toc files
 *.toc
 *.html
+*.pkg
+*.exe
+*.ico
+*.pyz
