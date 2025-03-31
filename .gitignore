@@ -1,4 +1,4 @@
-# Ignore .toc files
+# Ignore files
 *.toc
 *.html
 *.pkg
